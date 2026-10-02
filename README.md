@@ -3,5 +3,5 @@
 **Nama:** Edbert Frederick
 **NPM:** 2415061114
 
-**Link Video Evaluasi/Demo:** 
+**Link Video Demo TA 1:** 
 https://youtu.be/bs8WL3cuMwo?si=SjyPzzbuwScU3Ycz
